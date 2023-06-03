@@ -17,7 +17,7 @@ public Plugin myinfo = {
 	name = "[ZR] TeleME",
 	author = "who",
 	version = VERSION,
-	url = "http://www.sourcemod.net/"
+	url = "https://github.com/who2101/zr-teleme"
 };
 
 public void OnPluginStart() {
