@@ -8,4 +8,4 @@
 
 # ConVars
 
-- zr_teleme_count
+- zr_teleme_count (Default: 1)
