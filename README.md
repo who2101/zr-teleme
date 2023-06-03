@@ -1,6 +1,6 @@
 # Description
 
-- Zombie Reloaded module for teleportation to your teammates
+- Zombie Reloaded module for teleportation to your teammates when you human
 
 # Commands
 
