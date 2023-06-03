@@ -1,0 +1,61 @@
+"Phrases"
+{
+	"Prefix"
+	{
+		"ru" "{lightgreen}[TeleME]{default}"
+		"en" "{lightgreen}[TeleME]{default}"
+	}
+	"UnlockTeleport"
+	{
+		"ru" "Телепорт доступен!"
+		"en" "Teleport is available!"
+	}
+	"MenuTitle"
+	{
+		"ru" "Выберите игрока для телепорта"
+		"en" "Select a player to teleport"
+	}
+	"NoHumans"
+	{
+		"ru" "Нет игроков помимо вас..."
+		"en" "There are no players besides you..."
+	}
+	"BeforeInfect"
+	{
+		"ru" "Данная команда доступна только после появления зомби"
+		"en" "This command is available only after the appearance of zombies"
+	}
+
+	"OnlyHuman"
+	{
+		"ru" "Данная команда доступна только людям"
+		"en" "This command is only available for human"
+	}
+
+	"IsZombie"
+	{
+		"ru" "Нельзя телепортироватся к зараженному!"
+		"en" "You can't teleport to zombies!"
+	}
+
+	"ToClient"
+	{
+		"#format" "{1:N}"
+		"ru" "Вы телепортировались к {1}"
+		"en" "You teleported to {1}"
+	}
+
+	"ToTarget"
+	{
+		"#format" "{1:N}"
+		"ru" "К вам телепортировался {1}"
+		"en" "Player {1} teleported to you"
+	}
+
+	"MaxUses"
+	{
+		"#format" "{1:i}, {2:i}"
+		"ru" "Вы превысили лимит использования ({1}/{2})"
+		"en" "You have exceeded the usage limit ({1}/{2})"
+	}
+}
