@@ -11,7 +11,7 @@ float iInfectTime;
 int iUses[MAXPLAYERS + 1],
 	iMaxUses;
 	
-#define VERSION 1.0
+#define VERSION "1.0"
 
 public Plugin myinfo = {
 	name = "[ZR] TeleME",
